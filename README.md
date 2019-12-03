@@ -16,9 +16,11 @@ Coming soon!
 
 ### Using source code:
 Install all contents of this repo to your `$HOME/.vim` (or any other path from rtp):
-`cd $HOME/.vim/`
-`git clone https://github.com/knisht/unifold.git`
-`mv unifold/* .`
+```
+cd $HOME/.vim/    
+git clone https://github.com/knisht/unifold.git    
+mv unifold/*    
+```  
 
 ## Customization  
-You can see file `UnifoldCharacters.txt` among this repository files. It contains already prefilled bindings for some mathematical symbols and greek letters. Format of file: `[<word> <binding>\n]*`.
+You can see a `UnifoldCharacters.txt` among this repository files. It contains already prefilled bindings for some mathematical symbols and greek letters. Format of file: `[<word> <binding>\n]*`.
