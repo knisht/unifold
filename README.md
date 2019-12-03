@@ -5,6 +5,7 @@ Unifold is a customizable plugin for input unicode charactes using their plain e
 
 ## Usage:
 Move caret to the end of the word. Type `<C-l>` (`^L`, `Ctrl+L`) to replace your word with corresponding unicode character.
+![](lambda.gif)
 
 
 
