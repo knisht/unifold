@@ -20,7 +20,7 @@ Install all contents of this repo to your `$HOME/.vim` (or any other path from r
 ```
 cd $HOME/.vim/    
 git clone https://github.com/knisht/unifold.git    
-mv unifold/*    
+cp -r unifold/* .    
 ```  
 
 ## Customization  
