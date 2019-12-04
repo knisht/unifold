@@ -1,16 +1,16 @@
 # Unifold vim plugin
 
-## Description:  
-Unifold is a customizable plugin for input unicode charactes using their plain english names.  
+## Description  
+Unifold is a customizable plugin for input unicode characters using their plain english names.  
 
-## Usage:
+## Usage
 Move caret to the end of the word. Type `<C-l>` (`^L`, `Ctrl+L`) to replace your word with corresponding unicode character.
 ![](lambda.gif)
 
 
 
 
-## Installation:
+## Installation
 
 ### Using some package manager:
 Coming soon!
